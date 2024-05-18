@@ -23,6 +23,7 @@ public class Persona {
 	
 	private Date data;
 	private String finito;
+	private String ciao;
 	
 }
 
