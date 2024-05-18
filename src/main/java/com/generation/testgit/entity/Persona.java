@@ -1,5 +1,7 @@
 package com.generation.testgit.entity;
 
+import java.sql.Date;
+
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -18,6 +20,8 @@ public class Persona {
 	private String cognome;
 	private String indirizzo;
 	private int civico;
-
+	
+	private Date data;
+	
 }
 
