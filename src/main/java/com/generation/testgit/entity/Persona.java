@@ -15,6 +15,9 @@ public class Persona {
 	
 	@Column(name = "nome")
 	private String nome;
+	private String cognome;
+	private String indirizzo;
+	
 
 }
 
