@@ -22,6 +22,7 @@ public class Persona {
 	private int civico;
 	
 	private Date data;
+	private String finito;
 	
 }
 
